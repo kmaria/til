@@ -1,2 +1,4 @@
-# til
-Notes of things I learn
+# TIL (Today I Learnt)
+
+Inspired by @charliegerard's repo
+
