@@ -9,3 +9,6 @@ Inspired by @charliegerard's repo
 
 ## Git
 * [Undo git init](/git/undoGitInit.md)
+
+## Bash
+* The "#!" is called shebang
