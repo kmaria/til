@@ -9,6 +9,7 @@ Inspired by @charliegerard's repo
 
 ## Git
 * [Undo git init](/git/undoGitInit.md)
+* [git gc hangs](/git/gcHangs.md)
 
 ## Bash
 * The "#!" is called shebang
