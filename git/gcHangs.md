@@ -1,3 +1,5 @@
+ # When git gc hangs
+ 
  Today when running a ```git fetch```, git decided to auto pack the repository, which hang up.
  This is what helped:
  
