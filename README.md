@@ -13,3 +13,6 @@ Inspired by @charliegerard's repo
 
 ## Bash
 * The "#!" is called shebang
+
+## mySQL
+* Change database password(/mysql/changeDBPwd.md)
