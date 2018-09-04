@@ -15,4 +15,4 @@ Inspired by @charliegerard's repo
 * The "#!" is called shebang
 
 ## mySQL
-* Change database password(/mysql/changeDBPwd.md)
+* [Change database password](/mysql/changeDBPwd.md)
