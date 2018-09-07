@@ -1,4 +1,4 @@
-# Testing UI with long text
+# Testing UI with Long Text
 
 While groups of strings separated by spaces (i.e. sentences) might be more common, some of the supported localizations will not use spaces (e.g. Japanese) or will use very long compound words (e.g. German).
 
