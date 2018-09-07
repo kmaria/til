@@ -16,3 +16,6 @@ Inspired by @charliegerard's repo
 
 ## mySQL
 * [Change database password](/mysql/changeDBPwd.md)
+
+## UI testing
+* [Test With Long Characters](/ui/testWLongText.md)
