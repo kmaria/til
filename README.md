@@ -5,7 +5,7 @@ Inspired by @charliegerard's repo
 ---
 
 ## Chrome DevTools
-* [Opening Devtools with inspect element mode enabled](/devtools/inspectEnabled.md)
+* [Opening Devtools with Inspect Element Mode Enabled](/devtools/inspectEnabled.md)
 
 ## Git
 * [Undo git init](/git/undoGitInit.md)
@@ -15,7 +15,7 @@ Inspired by @charliegerard's repo
 * The "#!" is called shebang
 
 ## mySQL
-* [Change database password](/mysql/changeDBPwd.md)
+* [Change Database Password](/mysql/changeDBPwd.md)
 
 ## UI testing
 * [Test with Long Strings](/UI/testWLongText.md)
