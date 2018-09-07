@@ -18,4 +18,4 @@ Inspired by @charliegerard's repo
 * [Change database password](/mysql/changeDBPwd.md)
 
 ## UI testing
-* [Test With Long Characters](/ui/testWLongText.md)
+* [Test With Long Characters](/UI/testWLongText.md)
