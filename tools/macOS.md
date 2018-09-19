@@ -1,4 +1,4 @@
-# Useful Tools for Macos
+# Useful Tools for MacOS
 
 ## Package Manager - brew.sh
 
