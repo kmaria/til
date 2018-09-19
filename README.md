@@ -19,3 +19,6 @@ Inspired by @charliegerard's repo
 
 ## UI testing
 * [Test with Long Strings](/UI/testWLongText.md)
+
+## Tools
+* [Tools for macOS](tools/macOS.md)
