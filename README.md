@@ -16,6 +16,7 @@ Inspired by @charliegerard's repo
 
 ## mySQL
 * [Change Database Password](/mysql/changeDBPwd.md)
+* [Install MySQL on macOS](/mysql/installMySQLMacOS.md)
 
 ## UI testing
 * [Test with Long Strings](/UI/testWLongText.md)
