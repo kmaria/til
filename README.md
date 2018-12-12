@@ -22,5 +22,5 @@ Inspired by @charliegerard's repo
 * [Test with Long Strings](/UI/testWLongText.md)
 
 ## Tools
-* [Homebrew on macOS](tools/macOS.md)
+* [Homebrew on macOS](tools/brew.md)
 * [Happy Git Environment on macOS](tools/happyGit.md)
