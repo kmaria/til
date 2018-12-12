@@ -1,9 +1,5 @@
 ## Install MySQL 5.7 on macOS
 
-### Install Homebrew
-  
- `$  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-
 ### Install MySQL
 At this time of writing, Homebrew has MySQL version **8** as default, but as we're aiming to get **5.7** :
 
