@@ -1,5 +1,3 @@
-# Useful Tips for MacOS
-
 ## Package Manager - brew.sh
 
 To install open the terminal and paste:
