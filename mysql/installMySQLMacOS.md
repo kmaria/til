@@ -1,7 +1,7 @@
 ## Install MySQL 5.7 on macOS
 
 ### Install Homebrew
-* Installing Homebrew is effortless, open Terminal and enter :  
+  
  `$  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 ### Install MySQL
