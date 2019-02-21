@@ -9,11 +9,13 @@ At this time of writing, Homebrew has MySQL version **8** as default, but as we'
 ### Homebrew
 
 Install **brew services** first : `$ brew tap homebrew/services`
+
 Load and start the MySQL service : `$ brew services start mysql@5.7`    
 
 Check of the MySQL service has been loaded : `$ brew services list`
 
 Force link 5.7 version - `$ brew link mysql@5.7 --force` 
+
 Verify the installed MySQL instance : `$ mysql -V`   
 
 ### MySQL
