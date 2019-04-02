@@ -20,6 +20,7 @@ Inspired by @charliegerard's repo
 
 ## UI testing
 * [Test with Long Strings](/UI/testWLongText.md)
+* [Bypass Your Cache](/UI/bypassYourCache.md)
 
 ## Tools
 * [Homebrew on macOS](tools/brew.md)
