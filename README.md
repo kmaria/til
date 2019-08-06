@@ -10,6 +10,7 @@ Inspired by @charliegerard's repo
 ## Git
 * [Undo git init](/git/undoGitInit.md)
 * [When git gc Hangs](/git/gcHangs.md)
+* [Determine if current branch contains the commit](/git/isTheCommitInTheBranch.md)
 
 ## Bash
 * The "#!" is called shebang
