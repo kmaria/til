@@ -8,6 +8,7 @@ Inspired by @charliegerard's repo
 * [Opening Devtools with Inspect Element Mode Enabled](/devtools/inspectEnabled.md)
 
 ## Git
+* [SSH](/git/ssh.md)
 * [Undo git init](/git/undoGitInit.md)
 * [When git gc Hangs](/git/gcHangs.md)
 * [Determine if current branch contains the commit](/git/isTheCommitInTheBranch.md)
