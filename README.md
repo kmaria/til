@@ -19,9 +19,10 @@ Inspired by @charliegerard's repo
 * [Change Database Password](/mysql/changeDBPwd.md)
 * [Install MySQL on macOS](/mysql/installMySQLMacOS.md)
 
-## UI testing
+## UI Testing
 * [Test with Long Strings](/UI/testWLongText.md)
 * [Bypass Your Cache](/UI/bypassYourCache.md)
+* [XPath](/UI/xpath.md)
 
 ## Tools
 * [Homebrew on macOS](tools/brew.md)
