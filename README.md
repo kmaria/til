@@ -31,7 +31,7 @@ Inspired by @charliegerard's repo
 * [Happy Git Environment on macOS](tools/happyGit.md)
 
 ### Accessibility
-* [metal-a11y](tools/metal-a11y.md)
+* [metal-a11y](https://github.com/metal/metal-a11y-checker)
 
 ### Chrome DevTools
 * [Opening Devtools with Inspect Element Mode Enabled](/devtools/inspectEnabled.md)
