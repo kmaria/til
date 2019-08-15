@@ -4,25 +4,27 @@ Inspired by @charliegerard's repo
 
 ---
 
-## Git
+## Environment
+### Git
 * [SSH](/git/ssh.md)
 * [Undo git init](/git/undoGitInit.md)
 * [When git gc Hangs](/git/gcHangs.md)
 * [Determine if current branch contains the commit](/git/isTheCommitInTheBranch.md)
 
-## Bash
+### Bash
 * The "#!" is called shebang
 
-## mySQL
+### mySQL
 * [Change Database Password](/mysql/changeDBPwd.md)
 * [Install MySQL on macOS](/mysql/installMySQLMacOS.md)
 
-## UI Testing
+## Testing
+### UI Testing
 * [Test with Long Strings](/UI/testWLongText.md)
 * [Bypass Your Cache](/UI/bypassYourCache.md)
 * [XPath](/UI/xpath.md)
 
-## Accessibility
+### Accessibility
 * [Accessibility Documentations](accessibility/documentations.md)
 
 ## Tools
