@@ -5,6 +5,10 @@ Inspired by @charliegerard's repo
 ---
 
 ## Environment
+### macOS
+* [Homebrew on macOS](tools/brew.md)
+* [Happy Git Environment on macOS](tools/happyGit.md)
+
 ### Git
 * [SSH](/git/ssh.md)
 * [Undo git init](/git/undoGitInit.md)
@@ -28,10 +32,6 @@ Inspired by @charliegerard's repo
 * [Accessibility Documentations](accessibility/documentations.md)
 
 ## Tools
-### macOS
-* [Homebrew on macOS](tools/brew.md)
-* [Happy Git Environment on macOS](tools/happyGit.md)
-
 ### Accessibility
 * [metal-a11y](https://github.com/metal/metal-a11y-checker)
 
