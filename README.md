@@ -22,10 +22,11 @@
 * [Install MySQL on macOS](/mysql/installMySQLMacOS.md)
 
 ## Testing
-### UI Testing
+### UI/Frontend
 * [Test with Long Strings](/UI/testWLongText.md)
 * [Bypass Your Cache](/UI/bypassYourCache.md)
 * [XPath](/UI/xpath.md)
+* [Webdriver Manager](/tools/webdriverManager.md)
 
 ### Accessibility
 * [Accessibility Documentations](accessibility/documentations.md)
