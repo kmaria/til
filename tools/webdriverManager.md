@@ -9,12 +9,22 @@ To install:
 npm install -g webdriver-manager
 ```
 
+Setting up a Selenium server:
+```
+webdriver-manager update
+```
+
+## Troubleshooting
+
 In case of EACCES error try:
 ```
 sudo npm c get user
 ```
 
-Setting up a Selenium server
+Useful commands:
 ```
+webdriver-manager clean
+webdriver-manager status
 webdriver-manager update
+webdriver-manager start
 ```
