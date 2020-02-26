@@ -27,7 +27,7 @@ In case of EACCES error try:
 sudo npm c get user
 ```
 
-## Useful commands:
+## Useful commands
 ```
 webdriver-manager clean
 webdriver-manager status
