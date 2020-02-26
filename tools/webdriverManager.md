@@ -1,6 +1,12 @@
 # Webdriver Manager
 
-A selenium server and browser driver manager for the end to end tests.
+Webdriver manager started in protractor as a binary manager for selenium server and browser drivers. It was originally part of the Protractor project and has been extracted as its own node module.
+
+## Goals of webdriver manager
+
+Download the selenium server jar and browser drivers
+Run the selenium server for end to end tests
+Manage downloaded versions
 
 ## Getting started
 
@@ -21,7 +27,7 @@ In case of EACCES error try:
 sudo npm c get user
 ```
 
-Useful commands:
+## Useful commands:
 ```
 webdriver-manager clean
 webdriver-manager status
