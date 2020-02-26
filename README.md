@@ -2,10 +2,10 @@
 
 ---
 
-## Environment
-### macOS
-* [Homebrew on macOS](tools/brew.md)
-* [Happy Git Environment on macOS](tools/happyGit.md)
+## Dev Environment
+
+### Bash
+* The "#!" is called shebang
 
 ### Git
 * [SSH](/git/ssh.md)
@@ -14,22 +14,23 @@
 * [Determine if current branch contains the commit](/git/isTheCommitInTheBranch.md)
 * [Gather Statistics](/git/statistics.md)
 
-### Bash
-* The "#!" is called shebang
+### macOS
+* [Homebrew on macOS](tools/brew.md)
+* [Happy Git Environment on macOS](tools/happyGit.md)
 
 ### mySQL
 * [Change Database Password](/mysql/changeDBPwd.md)
 * [Install MySQL on macOS](/mysql/installMySQLMacOS.md)
 
 ## Testing
+
+### Accessibility
+* [Accessibility Documentations](accessibility/documentations.md)
+
 ### UI/Frontend
 * [Test with Long Strings](/UI/testWLongText.md)
 * [Bypass Your Cache](/UI/bypassYourCache.md)
 * [XPath](/UI/xpath.md)
-* [Webdriver Manager](/tools/webdriverManager.md)
-
-### Accessibility
-* [Accessibility Documentations](accessibility/documentations.md)
 
 ## Tools
 ### Accessibility
@@ -37,3 +38,6 @@
 
 ### Chrome DevTools
 * [Opening Devtools with Inspect Element Mode Enabled](/devtools/inspectEnabled.md)
+
+### E2E
+* [Webdriver Manager](/tools/webdriverManager.md)
