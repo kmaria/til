@@ -12,6 +12,7 @@
 * [Undo git init](/git/undoGitInit.md)
 * [When git gc Hangs](/git/gcHangs.md)
 * [Determine if current branch contains the commit](/git/isTheCommitInTheBranch.md)
+* [Stash](/git/stash.md)
 * [Gather Statistics](/git/statistics.md)
 
 ### macOS
