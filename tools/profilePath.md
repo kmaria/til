@@ -1,4 +1,6 @@
-## ZSH allows you to use special mapping of environment variables. So you can simply do:
+## ZSH allows you to use special mapping of environment variables
+
+So you can simply do:
 
 ```
 # append
