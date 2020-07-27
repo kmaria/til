@@ -17,6 +17,7 @@
 
 ### macOS
 * [Homebrew on macOS](tools/brew.md)
+* [Set PATH on zsh](tools/profilePath.md)
 * [Happy Git Environment on macOS](tools/happyGit.md)
 
 ### mySQL
