@@ -12,7 +12,7 @@ Load and start the MySQL service : `$ brew services start mysql`
 
 
 ### MySQL
-Open Terminal and execute the following command 
+Open Terminal and execute the following command:
  `brew services start mysql`
  
 To set the root password:  
