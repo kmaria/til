@@ -33,6 +33,7 @@
 * [Test with Long Strings](/UI/testWLongText.md)
 * [Bypass Your Cache](/UI/bypassYourCache.md)
 * [XPath](/UI/xpath.md)
+* [css3 vs xpath](https://gist.github.com/slotix/11f0930b2d46d2946249a10e6216735b#file-css3vsxpath-csv)
 
 ## Tools
 ### Accessibility
