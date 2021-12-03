@@ -45,3 +45,9 @@
 ### E2E
 * [Webdriver Manager](/tools/webdriverManager.md)
 * [Automatic management of Selenium WebDriver binaries](https://github.com/bonigarcia/webdrivermanager)
+
+## Security
+
+### Web Exploitation
+* [IDOR vulnerability](/security/idor.md)
+
