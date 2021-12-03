@@ -8,4 +8,5 @@ Seeing a product, user, or service identifier in the URL or otherwise is a must 
 
 
 [Top 25 IDOR Bug Bounty Reports](https://corneacristian.medium.com/top-25-idor-bug-bounty-reports-ba8cd59ad331) 
-[Owasp - Testing for IDOR](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/04-Testing_for_Insecure_Direct_Object_References)
+
+[OWASP - Testing for IDOR](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/04-Testing_for_Insecure_Direct_Object_References)
