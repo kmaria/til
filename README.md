@@ -49,5 +49,5 @@
 ## Security
 
 ### Web Exploitation
-* [IDOR vulnerability](/security/idor.md)
+* [IDOR vulnerability](/security/idor.md) ~ Authorization Testing
 
