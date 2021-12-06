@@ -53,4 +53,5 @@
 ### Web Exploitation
 * [IDOR vulnerability](/security/idor.md) ~ Authorization Testing
 * [Content Disovery](/security/contentDiscovery.md)
+* [Authentication](security/authentication.md)
 
